@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+   <item
+       android:id="@+id/refresh"
+       android:title="@string/refresh"
+       android:icon="@drawable/ic_refresh_black_24dp"
+       />
+    <item
+        android:id="@+id/Login"
+        android:title="@string/login"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/help"
+        android:title="Help"
+        android:icon="@drawable/ic_help_outline_black_24dp"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/settings"
+        android:title="About SIH"
+        android:icon="@drawable/ic_touch_app_black_24dp"
+        app:showAsAction="never"/>
+
+</menu>

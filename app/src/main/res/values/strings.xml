@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">After Death Care</string>
+    <string name="search">Search</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="account_name">Account</string>
+    <string name="settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="title">Simple</string>
+</resources>
